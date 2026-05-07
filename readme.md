@@ -33,7 +33,7 @@ Credits to Tannin, LePresidente, Silarn, erasmux, AL12, LostDragonist, AnyOldNam
 ## Download Location
 
 * on [GitHub.com](https://github.com/dbrown1986/tsmodorganizer/releases)
-* on [NexusMods.com](https://ts3tools.com/)
+* on [ts3tools.com](https://ts3tools.com/)
 
 ## Building
 
