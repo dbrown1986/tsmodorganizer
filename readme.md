@@ -1,6 +1,12 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/hxenwxmpaob5xung?svg=true)](https://ci.appveyor.com/project/ModOrganizer2/modorganizer-736bd)
 
-# Mod Organizer
+# The Sims Mod Organizer
+
+This particular fork is designed to work with Maxis/EA games, including The Sims, The Sims 2, The Sims Stories, The Sims 3, The Sims Medieval and The Sims 4. It may eventually be adapted to support earlier Maxis titles as well.
+This version of Mod Organizer REMOVES support for the other games that MO1/MO2 originally supported. It is specific to The Sims games. If you need support for the other games, please use the original Mod Organizer.
+TSMO was forked as a tool to be used alongside SimTools (previously TS3Tools), and will be developed alongside it.
+
+# History of the OG Mod Organizer.
 
 Mod Organizer (MO) is a tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them.
 Mod Organizer 2 is a mod manager created by Tannin to support 64-bit games like Skyrim Special Edition and Fallout 4 in addition to all the 32-bit games MO1 already supported.
@@ -10,9 +16,9 @@ MO2 was not completed and was left with many issues. LePresidente managed to fix
 The project took up speed again after a few more coders showed up in late 2017, and a lot of progress has been made.
 
 ## Help Wanted!
-Mod Organizer 2 is an open project in the hands of the community, there are problems that need to be solved and things that could be added. MO2 really needs developers and if you have the programming skills and some free time you can really improve the experience of the modding community.
+The Sims Mod Organizer is an open project in the hands of the community, there are problems that need to be solved and things that could be added. TSMO2 really needs developers and if you have the programming skills and some free time you can really improve the experience of the modding community.
 
-To have more information, please join the open MO2 Development Discord server: [Mod Organizer 2](https://discord.gg/ewUVAqyrQX)
+To have more information, please join the open MO2 Development Discord server: [SimTools](https://discord.gg/zEkwbnuGUN)
 If you want to help translate MO2 to your language you should join the Discord server too and head to the #translation channel.
 To setup a development environment on your machine, there is the [mob project](https://github.com/modorganizer2/mob) that handles that.
 If you want to submit your code changes, please use a good formatting style like the default one in Visual Studio.
@@ -26,12 +32,8 @@ Credits to Tannin, LePresidente, Silarn, erasmux, AL12, LostDragonist, AnyOldNam
 
 ## Download Location
 
-* on [GitHub.com](https://github.com/Modorganizer2/modorganizer/releases)
-* on [NexusMods.com](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
-
-## Old Download Location
-
-* [TanninOne/modorganizer/releases](https://github.com/TanninOne/modorganizer/releases)
+* on [GitHub.com](https://github.com/dbrown1986/tsmodorganizer/releases)
+* on [NexusMods.com](https://ts3tools.com/)
 
 ## Building
 
