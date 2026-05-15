@@ -1,3 +1,7 @@
+# WARNING
+
+Work on this project has not started yet. You should ignore this repository for the time being until such time as this warning has dissappeared.
+
 [![Build status](https://ci.appveyor.com/api/projects/status/hxenwxmpaob5xung?svg=true)](https://ci.appveyor.com/project/ModOrganizer2/modorganizer-736bd)
 
 # The Sims Mod Organizer
